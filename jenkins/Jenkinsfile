@@ -27,7 +27,7 @@ pipeline{
         }
         stage("Finish build"){
             steps{
-                echo "Complete2"
+                echo "Complete2 Master"
             }
         }
     }
