@@ -27,7 +27,7 @@ pipeline{
         }
         stage("Finish build"){
             steps{
-                echo "Complete"
+                echo "Complete2"
             }
         }
     }
